@@ -1,0 +1,46 @@
+# Python Automation Lab
+
+A growing collection of Python automation tools, experiments,
+and engineering workflows focused on:
+
+- PDF/data processing
+- filesystem automation
+- systems tooling
+- CLI utilities
+- ETL workflows
+
+## Current Status
+
+This repository is under active development as part of a
+broader study of Python automation engineering and internal
+tooling development.
+
+## Repository Structure
+
+```text
+assets/
+docs/
+tests/
+tools/
+
+## Current Tools
+
+PDF Table Extraction
+
+Extracts tabular data from PDF documents using pdfplumber
+and exports results into pandas DataFrames.
+
+## Technologies
+
+- Python 3.12+
+- pandas
+- pdfplumber
+- pathlib
+
+## Roadmap
+
+CLI interfaces with Typer
+structured logging
+automated tests
+richer ETL workflows
+cross-platform scripting
